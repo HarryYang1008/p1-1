@@ -1,4 +1,4 @@
-# CSE310-p1-1
+
  Part(1):
 	for part 1, I import the socket for build the server.
 	how to run the programe:
